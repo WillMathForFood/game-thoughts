@@ -1,0 +1,3 @@
+Allow establishing a neutral "tile" for trade/communication with a hostile opponent
+
+Also, obviously, allow shared victories
